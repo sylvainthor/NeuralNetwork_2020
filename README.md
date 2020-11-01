@@ -68,7 +68,3 @@ _la priorité est établie par la notation MoSCoW càd Must Should Could Would, 
 | Charger un Reseau                               | C | OUI |
 | Transformer une image en données d'entrainement | W | NON |
 | Ajouter une interface graphique                 | S | OUI |
-
-Nous estimons que le projet suivra ce diagramme de Gantt, en prenant en compte que les jeudis
-
-![](diagrammes/Gantt.png "Diagramme de cas d'usage")
