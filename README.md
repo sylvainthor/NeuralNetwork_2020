@@ -1,4 +1,4 @@
-# Projet Tutoré 2019
+# Projet Tutoré 2019-2020
 
 
 __Sujet :__ Créateur de Réseaux de Neurones Artificiels
@@ -68,3 +68,5 @@ _la priorité est établie par la notation MoSCoW càd Must Should Could Would, 
 | Charger un Reseau                               | C | OUI |
 | Transformer une image en données d'entrainement | W | NON |
 | Ajouter une interface graphique                 | S | OUI |
+
+N.B. : Pour utiliser les fichiers excels, ne pas oublier de décompresser/extraire l'archive située dans le dossier /src/fichier_entrainement
